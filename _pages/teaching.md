@@ -19,3 +19,6 @@ description: I love teaching! I started giving private classes on signal process
 - I imparted the course's practical materials to ~130 students.
 - As a teaching assistant, I managed the programme [Interfaces Imaginadas - El Camino de Ida y Vuelta entre la Ciencia y la Ficción](http://vis.usal.es/~interfacesimaginadas) (Imagined Interfaces - The Two-Way Trip between Science to Fiction) programme that year. This programme, created by Dr. Roberto Therón, invites students to reflect on interface design via an analysis of science fiction in TV and cinema.
 
+<h3 class="year">2019-20</h3>
+Visualización y Analítica Visual - [Máster en Sistemas Inteligentes](https://mastersi.usal.es/) (MSc in Intelligent Systems)
+- I created a small [intro to D3 in Observable](https://observablehq.com/@ale0xb/d3-tutorial) for the course "Visualization & Visual Analytics".
