@@ -18,9 +18,7 @@ news: false
 social: true
 ---
 
-Hello! I am Alejandro, **a research assistant, lecturer, and PhD. student** at the Department of Computer Science and Automation at the University of Salamanca (Spain). I used to work as a freelance
-consultant but after some time I went back to university to start a PhD in data visualization. I completed my **BSc in Computer Engineering** at the same university, from which I also obtained an **MSc in
-Intelligent Systems in 2016.** Before, I worked in UK and Spain as a freelance mobile developer and UX designer. Examples of my work are [this](https://twitter.com/pocketexplorers) or [this](https://apps.apple.com/us/app/lit-keyboard/id1029418831).
+Hello! I am Alejandro, **a research assistant, lecturer, and PhD. student** at the Department of Computer Science and Automation at the University of Salamanca (Spain). I completed my **BSc in Computer Engineering** at the same university, from which I also obtained an **MSc in Intelligent Systems in 2016.** Before, I worked in UK and Spain as a freelance mobile developer and UX designer. Examples of my work are [this](https://twitter.com/pocketexplorers) or [this](https://apps.apple.com/us/app/lit-keyboard/id1029418831).
 
 Now I am a member of the Visual Analytics Group VisUSAL (within the Recognized Research Group GRIAL), where I am currently completing my thesis *"Supporting Methodology Transfer in Problem-Driven Visualization Research via Literature-Based Discovery"*. I investigate on how visual text analytics can accelerate problem-driven visualization research by helping users to find **visualizations that can be reused across different knowledge domains** such as digital humanities, sports science, linguistics or bioinformatics. 
 
