@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PROVIDEDH
+title: ExploreAT!
 description:  Exploring Austria's Culture through the Language Glass
 img: /assets/img/exploreat.jpg
 redirect: https://www.oeaw.ac.at/acdh/projects/exploreat/
