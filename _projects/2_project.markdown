@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image
-img: /assets/img/2.jpg
+title: PROVIDEDH
+description:  Exploring Austria's Culture through the Language Glass
+img: /assets/img/exploreat.jpg
+redirect: https://www.oeaw.ac.at/acdh/projects/exploreat/
 ---
+
+
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
