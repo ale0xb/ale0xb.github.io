@@ -20,5 +20,19 @@ description: I love teaching! I started giving private classes on signal process
 - As a teaching assistant, I managed the programme [Interfaces Imaginadas - El Camino de Ida y Vuelta entre la Ciencia y la Ficción](http://vis.usal.es/~interfacesimaginadas) (Imagined Interfaces - The Two-Way Trip between Science to Fiction) programme that year. This programme, created by Dr. Roberto Therón, invites students to reflect on interface design via an analysis of science fiction in TV and cinema.
 
 <h3 class="year">2019-20</h3>
-Visualización y Analítica Visual - [Máster en Sistemas Inteligentes](https://mastersi.usal.es/) (MSc in Intelligent Systems)
+Visualización y Analítica Visual - [Máster en Sistemas Inteligentes](https://mastersi.usal.es/) (Master's degree in Intelligent Systems).
 - I created a small [intro to D3 in Observable](https://observablehq.com/@ale0xb/d3-tutorial) for the course "Visualization & Visual Analytics".
+
+<h3 class="year">2020-21</h3>
+[Intro to Python](https://masterbioinformatica.usal.es/asignaturas/python/) - Master's degree in Bioinformatics and Computational Genomics.
+- I am currently imparting an introduction to Python programming and computational thinking aimed at biologists, neuroscientists, and biotechnologists. 
+
+[Computational Tools for Bioinformatics](https://masterbioinformatica.usal.es/asignaturas/unix/) - Master's degree in Bioinformatics and Computational Genomics.
+- This course aims to introduce biologists, neuroscientists, and biotechnologists to the Unix/Linux ecososystem and to command-line tools commonly employed in bioinformatics:
+	1. Introduction to the UNIX and GNU/Linux family of operating systems.
+	2. Remote information exchange.
+	3. File system: paths, permissions, edition.
+	4. Piping.
+	5. Regular expressions with grep, sed, and awk.
+	6. Shell scripting.
+

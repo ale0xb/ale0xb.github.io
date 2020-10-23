@@ -1,22 +1,21 @@
 .project {
     box-sizing: border-box;
     float: left;
-    height: 250px;
+    height: auto;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: 100%;
 
     .thumbnail {
-        overflow: hidden;
-        height: 200px;
+        padding-top: 5px;
+        height: auto;
         width: 100%;
 
         img {
             height: auto;
             position: relative;
-                left: -25%;
                 top: -5%;
-            width: 500px;
+            width: 100%;
         }
 
         a {
@@ -25,13 +24,12 @@
             position: relative;
             width: 100%;
 
-            span {
-                display: none;
-                position: absolute;
-                top: 0;
-                left: 0;
-                bottom: 0;
-                right: 0;
+        }
+    }
+
+    span {
+                display: block;
+        
                 background: rgba(0,0,0,0.4);
                 color: $grey-color-light;
                 padding: 40px;
@@ -46,12 +44,4 @@
                     color: $grey-color-light;
                 }
             }
-
-            &:hover {
-                span {
-                    display: block;
-                }
-            }
-        }
-    }
 }
