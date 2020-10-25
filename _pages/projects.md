@@ -4,7 +4,6 @@ title: visualizations
 permalink: /projects/
 description: That's it! A selection of my visualization works, mostly about digital humanites, text-mining, and sports science.
 ---
-
 <div class="project">
     <h3>GlassViz</h3>
     <div class="thumbnail">
@@ -29,8 +28,19 @@ description: That's it! A selection of my visualization works, mostly about digi
         <p>Also during my thesis, I implemented a visualization scheme that set the theoretical foundations of GlassViz.</a>.</p>
     </div>
     <div>
-        <a href="https://arxiv.org/abs/2009.02094" target="_blank"><i class="fas fa-book" aria-hidden="true"></i></a>
-        <a href="https://www.youtube.com/watch?v=v7WP4FjpCZ4" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+        <a href="https://github.com/ale0xb/keywords-vis/" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+        <a href="https://ieeexplore.ieee.org/document/8766090" target="_blank"><i class="fas fa-book" aria-hidden="true"></i></a>
+        <a href="../assets/bibtex/cross_domain.bib" target="_blank">BibTeX</a>
+    </div>
+</div>
+
+<div class="project">
+    <h3>Visualizing the visualization for the digital humanities (VIS4DH) community</h3>
+    <div class="thumbnail">
+        <img class="thumbnail" src="../assets/img/cross_domain.png">
+    </div>
+    <div>
+        <p>I made several visualizations in Python (with <a.Bokeh and Altair) for two of my papers: "A Data-Driven Introduction to Readings, Authors, and Techniques in Visualization for the Digital Humanities" and "Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities."  </a>.</p>
     </div>
     <div>
         <a href="https://github.com/ale0xb/keywords-vis/" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -71,6 +81,22 @@ description: That's it! A selection of my visualization works, mostly about digi
 </div>
 
 <div class="project">
+    <h3>BKViz</h3>
+    <div class="thumbnail">
+        <img class="thumbnail" src="../assets/gif/bkviz.gif">
+    </div>
+    <div>
+        <p>BKViz is a visual analytics system for studying team chemistry and individual player performance in professional basketball games.</p>
+    </div>
+    <div>
+        <a href="http://vis.usal.es/bkviz/" target="_blank"><i class="fas fa-link" aria-hidden="true"></i></a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/7750529/" target="_blank"><i class="fas fa-book" aria-hidden="true"></i></a>
+        <a href="https://www.youtube.com/watch?v=Q6QGP6TaIQM" target="_blank"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+        <a href="../assets/bibtex/bkviz.bib" target="_blank">BibTeX</a>
+    </div>
+</div>
+
+<div class="project">
     <h3>Quantile Dotplot</h3>
     <div class="thumbnail">
         <img class="thumbnail" src="../assets/gif/quantile.gif">
@@ -84,17 +110,28 @@ description: That's it! A selection of my visualization works, mostly about digi
     </div>
 </div>
 
+
+<div class="project">
+    <h3>ConceptLights</h3>
+    <div class="thumbnail">
+        <img class="thumbnail" src="../assets/gif/conceptlights.gif">
+    </div>
+    <div>
+        <p>I made this visualization for exploring a corpus of lexicographic artifacts (questionnaires) along with experts at the <a href="https://www.oeaw.ac.at/acdh/">Austrian Center for Digital Humanities of the Austrian Academy of Sciences</a>. The work was presented at the 2018 Digital Humanities Conference in Mexico City.</p>
+    </div>
+    <div>
+        <a href="https://exploreat.acdh-dev.oeaw.ac.at/exploreAT-conceptlights/" target="_blank"><i class="fas fa-link" aria-hidden="true"></i></a>
+        <a href="https://dh2018.adho.org/shedding-light-on-indigenous-knowledge-concepts-and-world-perception-through-visual-analysis/" target="_blank"><i class="fas fa-book" aria-hidden="true"></i></a>
+    </div>
+</div>
+
 <div class="project">
     <h3>SoccerVis</h3>
     <div class="thumbnail">
         <img class="thumbnail" src="../assets/gif/soccervis.gif">
     </div>
     <div>
-        <p>PROgressive VIsual DEcision-Making in Digital Humanities</p>
-    </div>
-    <div>
-        <a href="https://observablehq.com/@ale0xb/quantile-dotplots" target="_blank"><i class="fas fa-link" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/alexbensan/status/1257971895690985472" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+        <p>A WIP visual analytics system based on my previous work in the field based for analysis of soccer games.</p>
     </div>
 </div>
 
@@ -112,25 +149,6 @@ description: That's it! A selection of my visualization works, mostly about digi
     </div>
 </div>
 
-<div class="project">
-    <h3>BKViz</h3>
-    <div class="thumbnail">
-        <img class="thumbnail" src="../assets/gif/bkviz.gif">
-    </div>
-    <div>
-        <p>Exploring Austria's Culture through the Language Glass</p>
-    </div>
-</div>
-
-<div class="project">
-    <h3>ConceptLights</h3>
-    <div class="thumbnail">
-        <img class="thumbnail" src="../assets/gif/conceptlights.gif">
-    </div>
-    <div>
-        <p>Exploring Austria's Culture through the Language Glass</p>
-    </div>
-</div>
 
 <div class="project">
     <h3>Rural Schools in the Castilla y León region</h3>
