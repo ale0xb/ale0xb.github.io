@@ -25,7 +25,7 @@ description: That's it! A selection of my visualization works, mostly about digi
         <img class="thumbnail" src="../assets/img/cross_domain.png">
     </div>
     <div>
-        <p>Also during my thesis, I implemented a visualization scheme that set the theoretical foundations of GlassViz.</a>.</p>
+        <p>Also during my thesis, I implemented a visualization scheme that set the theoretical foundations of GlassViz.</p>
     </div>
     <div>
         <a href="https://github.com/ale0xb/keywords-vis/" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
@@ -35,12 +35,12 @@ description: That's it! A selection of my visualization works, mostly about digi
 </div>
 
 <div class="project">
-    <h3>Visualizing the visualization for the digital humanities (VIS4DH) community</h3>
+    <h3>Visualizing visualization for the digital humanities </h3>
     <div class="thumbnail">
-        <img class="thumbnail" src="../assets/img/cross_domain.png">
+        <img class="thumbnail" src="../assets/img/vis4dhvis.png">
     </div>
     <div>
-        <p>I made several visualizations in Python (with <a.Bokeh and Altair) for two of my papers: "A Data-Driven Introduction to Readings, Authors, and Techniques in Visualization for the Digital Humanities" and "Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities."  </a>.</p>
+        <p>I made several visualizations in Python (with <a href="https://bokeh.org/"> Bokeh</a> and <a href="https://altair-viz.github.io/"> Altair</a>) for two of my papers: <i>A Data-Driven Introduction to Readings, Authors, and Techniques in Visualization for the Digital Humanities</i> and <i>Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities</i>.</p>
     </div>
     <div>
         <a href="https://github.com/ale0xb/keywords-vis/" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
