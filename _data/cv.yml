@@ -2,96 +2,86 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Alejandro Benito-Santos
+    - name: Affiliation
+      value: Department of Computer Science and Automation, University of Salamanca
+    - name: Location
+      value: Salamanca, Spain
+    - name: Email
+      value: alejandro.benito.santos@gmail.com
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: University of Salamanca, Salamanca, Spain
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Supporting Methodology Transfer in Visualization Research with Literature-Based Discovery and Visual Text Analytics.
+        - Grade: Summa Cum Laude.
+    - title: MSc in Intelligent Systems
+      institution: University of Salamanca, Salamanca, Spain
+      year: 2016
+    - title: BSc in Computer Engineering
+      institution: University of Salamanca, Salamanca, Spain
+      year: TODO (confirm graduation year from PDF CV)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant and Lecturer
+      institution: Department of Computer Science and Automation, University of Salamanca
+      year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Research focused on text and data visualization, HCI, and digital humanities.
+    - title: Freelance Mobile Developer and UX Designer
+      institution: UK and Spain
+      year: TODO (confirm date range from PDF CV)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Informatica I (BSc in Statistics)
+      institution: University of Salamanca
+      year: 2017-18
+      description:
+        - Introduction to Python programming and computational thinking.
+    - title: Interaccion Persona-Ordenador (BSc in Computer Engineering)
+      institution: University of Salamanca
+      year: 2017-18
+      description:
+        - Practical teaching in HCI fundamentals.
+    - title: Visualizacion y Analitica Visual (MSc in Intelligent Systems)
+      institution: University of Salamanca
+      year: 2019-20
+    - title: Intro to Python (MSc in Bioinformatics and Computational Genomics)
+      institution: University of Salamanca
+      year: 2020-21
+    - title: Computational Tools for Bioinformatics (MSc in Bioinformatics and Computational Genomics)
+      institution: University of Salamanca
+      year: 2020-21
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Academic Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reviewer for venues including IEEE VIS, ADHO Digital Humanities, IEEE Access, and ACM JOCCH.
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Primary areas
+      items:
+        - Text and data visualization.
+        - Human-computer interaction (HCI).
+        - Digital humanities and linguistics.
+    - title: Methods
+      items:
+        - NLP and recommender systems.
+        - Scientometrics and information theory.
+
+- title: TODO from full PDF CV
+  type: list
+  contents:
+    - Add full publication metrics, awards, grants, and detailed chronology from the PDF CV.
+    - Add complete service and invited talks sections from the PDF CV.
+    - Add project-by-project roles and links where missing.
