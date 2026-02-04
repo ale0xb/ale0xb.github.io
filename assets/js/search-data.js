@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-one-paper-accepted-at-chi-2026-chasing-meaning-and-or-insight-a-survey-on-evaluation-practices-at-the-intersection-of-visualization-and-the-humanities-doi-10-1145-3772318-3793150",
+          title: 'One paper accepted at CHI 2026!! 🥳 🎉 “Chasing Meaning and/or Insight? A...',
           description: "",
           section: "News",},{id: "projects-glassviz",
           title: 'GlassViz',
