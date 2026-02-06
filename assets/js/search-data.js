@@ -400,7 +400,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-one-paper-accepted-at-chi-2026-chasing-meaning-and-or-insight-a-survey-on-evaluation-practices-at-the-intersection-of-visualization-and-the-humanities-doi-10-1145-3772318-3793150",
+      },{id: "news-one-paper-accepted-at-chi-2026-chasing-meaning-and-or-insight-a-survey-on-evaluation-practices-at-the-intersection-of-visualization-and-the-humanities-preprint",
           title: 'One paper accepted at CHI 2026!! 🥳 🎉 “Chasing Meaning and/or Insight? A...',
           description: "",
           section: "News",},{id: "projects-glassviz",
