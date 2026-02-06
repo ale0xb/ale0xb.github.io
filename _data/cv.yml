@@ -3,85 +3,150 @@
   contents:
     - name: Full Name
       value: Alejandro Benito-Santos
-    - name: Affiliation
-      value: Department of Computer Science and Automation, University of Salamanca
+    - name: Position
+      value: Assistant Professor (Ayudante Doctor), Department of Computer Languages and Systems, UNED
+    - name: Previous Position
+      value: Juan de la Cierva Postdoctoral Researcher (JDC2022-048408-I)
+    - name: Research Areas
+      value: NLP, HCI, Information Visualization, and Digital Humanities
     - name: Location
-      value: Salamanca, Spain
-    - name: Email
-      value: alejandro.benito.santos@gmail.com
+      value: Madrid, Spain
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
-      institution: University of Salamanca, Salamanca, Spain
-      year: 2021
+    - title: PhD in Computer Engineering (International Doctorate)
+      institution: University of Salamanca
+      year: 2020
       description:
-        - Thesis: Supporting Methodology Transfer in Visualization Research with Literature-Based Discovery and Visual Text Analytics.
-        - Grade: Summa Cum Laude.
+        - "Thesis: Supporting Methodology Transfer in Visualization Research with Literature-Based Discovery and Visual Text Analytics."
+        - "Grade: Cum Laude."
     - title: MSc in Intelligent Systems
-      institution: University of Salamanca, Salamanca, Spain
+      institution: University of Salamanca
       year: 2016
-    - title: BSc in Computer Engineering
-      institution: University of Salamanca, Salamanca, Spain
-      year: TODO (confirm graduation year from PDF CV)
+      description:
+        - "MSc thesis: Data Visualization in Digital Humanities (highest distinction)."
+    - title: BEng Computer Engineering
+      institution: University of Salamanca
+      year: 2008
 
-- title: Experience
+- title: Academic Appointments
   type: time_table
   contents:
-    - title: Research Assistant and Lecturer
-      institution: Department of Computer Science and Automation, University of Salamanca
-      year: Current
+    - title: Assistant Professor (Ayudante Doctor)
+      institution: UNED, Department of Computer Languages and Systems
+      year: 2025-present
       description:
-        - Research focused on text and data visualization, HCI, and digital humanities.
-    - title: Freelance Mobile Developer and UX Designer
-      institution: UK and Spain
-      year: TODO (confirm date range from PDF CV)
+        - Teaching and research in NLP, visualization, and digital humanities.
+    - title: Juan de la Cierva Postdoctoral Researcher
+      institution: UNED, Department of Computer Languages and Systems
+      year: 2024-2025
+      description:
+        - "Research line: Visual Analytics for NLP Explainability and Fairness."
+    - title: Margarita Salas Postdoctoral Fellow
+      institution: University of Salamanca (GRIAL) and LINHD-UNED
+      year: 2022-2023
+    - title: Postdoctoral Researcher
+      institution: University of Salamanca, VisUSAL
+      year: 2021
+    - title: Researcher and Associate Lecturer
+      institution: University of Salamanca
+      year: 2016-2020
 
-- title: Teaching
+- title: University Teaching
   type: time_table
   contents:
-    - title: Informatica I (BSc in Statistics)
-      institution: University of Salamanca
-      year: 2017-18
+    - title: Data Visualization (distance learning)
+      institution: UNED, MA in Digital Humanities
+      year: 2023-2025
       description:
-        - Introduction to Python programming and computational thinking.
-    - title: Interaccion Persona-Ordenador (BSc in Computer Engineering)
-      institution: University of Salamanca
-      year: 2017-18
+        - 5 ECTS. Online teaching focused on visualization tools for complex data.
+    - title: Data Visualization (distance learning)
+      institution: UNED, MSc in Data Science and Engineering
+      year: 2022-2023
       description:
-        - Practical teaching in HCI fundamentals.
-    - title: Visualizacion y Analitica Visual (MSc in Intelligent Systems)
-      institution: University of Salamanca
-      year: 2019-20
-    - title: Intro to Python (MSc in Bioinformatics and Computational Genomics)
-      institution: University of Salamanca
-      year: 2020-21
-    - title: Computational Tools for Bioinformatics (MSc in Bioinformatics and Computational Genomics)
-      institution: University of Salamanca
-      year: 2020-21
+        - 4 ECTS.
+    - title: Cloud Computing and Network Services Management
+      institution: University of Salamanca, MSc in Computer Engineering
+      year: 2022-2023
+      description:
+        - 4 ECTS.
+    - title: Informatica I
+      institution: University of Salamanca, BSc in Statistics
+      year: 2017-2018
+      description:
+        - 3 ECTS practical teaching in introductory programming and data structures.
+    - title: Human-Computer Interaction
+      institution: University of Salamanca, BSc in Computer Engineering
+      year: 2017-2018
+      description:
+        - 13.5 ECTS practical teaching; coordinator of "Interfaces Imaginadas".
+    - title: Python Programming and Computational Tools for Bioinformatics
+      institution: University of Salamanca, Diploma in Bioinformatics and Computational Genomics
+      year: 2020-2022
+      description:
+        - Courses in Python programming and computational methods.
 
-- title: Academic Service
+- title: Advising and Teaching Innovation
   type: list
   contents:
-    - Reviewer for venues including IEEE VIS, ADHO Digital Humanities, IEEE Access, and ACM JOCCH.
+    - Co-supervisor of MSc thesis on semantic similarity in Spanish song lyrics (UNED, 2024).
+    - Director of UNED Summer Course 2024 on conversational AI (20 hours).
+    - Principal Investigator, teaching innovation project on online Python learning architecture (University of Salamanca, 2017-2018).
+    - Member, Innovation Group "Intelligent Systems for Learning" (UNED, since 2024).
 
-- title: Research Interests
-  type: nested_list
+- title: Research Projects (Funded)
+  type: time_table
   contents:
-    - title: Primary areas
-      items:
-        - Text and data visualization.
-        - Human-computer interaction (HCI).
-        - Digital humanities and linguistics.
-    - title: Methods
-      items:
-        - NLP and recommender systems.
-        - Scientometrics and information theory.
+    - title: ODESIA - Espacio de Observacion del Desarrollo del Español en la IA
+      institution: UNED / Red.es
+      year: 2022-2026
+      description:
+        - National AI Strategy project. Participation in the leaderboard/evaluation line from 2024.
+    - title: CLS-INFRA - Computational Literary Studies Infrastructure
+      institution: ERC H2020-INFRAIA-2020-1 (GA 101004984)
+      year: 2022-2023
+    - title: PROVIDEDH - Progressive Visual Decision-Making in Digital Humanities
+      institution: CHIST-ERA (PCIN-2017-064)
+      year: 2018-2021
+    - title: exploreAT! - Exploring Austria's Culture through the Language Glass
+      institution: Austrian Academy of Sciences / University of Salamanca
+      year: 2015-2019
+    - title: Additional competitive and transfer projects
+      institution: University of Salamanca and collaborators
+      year: 2014-2024
+      description:
+        - Includes projects in sports analytics, medical image machine learning, and technology transfer.
 
-- title: TODO from full PDF CV
+- title: Selected Publications and Top Venues
   type: list
   contents:
-    - Add full publication metrics, awards, grants, and detailed chronology from the PDF CV.
-    - Add complete service and invited talks sections from the PDF CV.
-    - Add project-by-project roles and links where missing.
+    - "Knowledge-Based Systems (2025): compositional distributional semantics for Spanish song lyrics."
+    - "ACL 2025: robust estimation of population-level effects in repeated-measures NLP designs."
+    - "COLING 2025: bilingual evaluation of language models on university entrance exams."
+    - "IEEE VIS and VIS4DH: visual analytics for digital humanities."
+    - "CHI 2026 (accepted): evaluation practices at the intersection of visualization and the humanities."
+    - Full publication list is maintained in the publications section.
+
+- title: Service, Committees, and Recognition
+  type: list
+  contents:
+    - Co-chair, ODESIA-Challenge 2024 (international benchmark for Spanish LLM evaluation).
+    - Reviewer for ACL, EMNLP, Computational Linguistics, IEEE VIS, IEEE PacificVis, ACM CHI, IEEE Access, and JOCCH.
+    - Invited participant, Dagstuhl Seminar 2023 on Visualization and the Humanities.
+    - ANECA accreditations (2023) Profesor Contratado Doctor, Profesor Ayudante Doctor, and Profesor de Universidad Privada.
+
+- title: International Visits and Professional Experience
+  type: time_table
+  contents:
+    - title: Research visits
+      institution: Austrian Academy of Sciences (Vienna), PSNC (Poznan), LINHD-UNED (Madrid)
+      year: 2016-2023
+      description:
+        - STSM (ENeL/COST), predoctoral stay, and postdoctoral stay.
+    - title: Mobile software engineering and consulting
+      institution: Concise Media (London), Floxx (London), Victor Chandler (Gibraltar), Aurora Software (Madrid)
+      year: 2011-2016
+      description:
+        - Industry experience in mobile application development and technology consulting.
+
