@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at CHI 2026!! 🥳 🎉 "Chasing Meaning and/or Insight? A Survey on Evaluation Practices at the Intersection of Visualization and the Humanities" [preprint](http://arxiv.org/abs/2601.20464)
+Our CHI 2026 paper won a Best Paper Award!! 🏆 🎉 "Chasing Meaning and/or Insight? A Survey on Evaluation Practices at the Intersection of Visualization and the Humanities" [preprint](http://arxiv.org/abs/2601.20464)
