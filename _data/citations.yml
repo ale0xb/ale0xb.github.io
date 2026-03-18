@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-18'
 papers:
   kG15qkMAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -122,7 +122,7 @@ papers:
     title: 'Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities'
     year: '2020'
   kG15qkMAAAAJ:bFI3QPDXJZMC:
-    citations: 45
+    citations: 46
     title: A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities
     year: '2020'
   kG15qkMAAAAJ:dfsIfKJdRG4C:
@@ -134,7 +134,7 @@ papers:
     title: "La visualizaci\xF3n de datos en la lectura digital moderna: Pasado, presente y futuro"
     year: '2019'
   kG15qkMAAAAJ:eJXPG6dFmWUC:
-    citations: 0
+    citations: 1
     title: Chasing Meaning and/or Insight? A Survey on Evaluation Practices at the Intersection of Visualization and the Humanities
     year: '2026'
   kG15qkMAAAAJ:fPk4N6BV_jEC:
@@ -166,7 +166,7 @@ papers:
     title: 'Analyzing and Visualizing Uncertain Knowledge: The Use of TEI Annotations in the PROVIDEDH Open Science Platform'
     year: '2021'
   kG15qkMAAAAJ:pyW8ca7W8N0C:
-    citations: 0
+    citations: 1
     title: "Evaluaci\xF3n de una metodolog\xEDa novel basada en cuadernos interactivos para el aprendizaje de la programaci\xF3n en Python"
     year: '2019'
   kG15qkMAAAAJ:rO6llkc54NcC:
