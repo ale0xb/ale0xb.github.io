@@ -58,16 +58,26 @@
   contents:
     - title: Data Visualization (distance learning)
       institution: UNED, MA in Digital Humanities
-      year: 2023-2025
+      year: 2023-2026
       description:
         - 5 ECTS. Online teaching focused on visualization tools for complex data.
+    - title: Text Representation in Vector and Probabilistic Spaces (distance learning)
+      institution: UNED, MSc in Language Technologies
+      year: 2024-2026
+      description:
+        - 6 ECTS. Online teaching focused on embedding models.
+    - title: Programming Languages and Processors (distance learning)
+      institution: UNED, BSc in Information Technology Engineering
+      year: 2025-2026
+      description:
+        - 6 ECTS. Online teaching focused on the formal specification of programming languages.
     - title: Data Visualization (distance learning)
       institution: UNED, MSc in Data Science and Engineering
       year: 2022-2023
       description:
         - 4 ECTS.
-    - title: Cloud Computing and Network Services Management
-      institution: University of Salamanca, MSc in Computer Engineering
+    - title: Cloud Computing and Network Services Management (distance learning)
+      institution: UNED, MSc in Computer Engineering
       year: 2022-2023
       description:
         - 4 ECTS.
@@ -118,23 +128,13 @@
       description:
         - Includes projects in sports analytics, medical image machine learning, and technology transfer.
 
-- title: Selected Publications and Top Venues
-  type: list
-  contents:
-    - "Knowledge-Based Systems (2025): compositional distributional semantics for Spanish song lyrics."
-    - "ACL 2025: robust estimation of population-level effects in repeated-measures NLP designs."
-    - "COLING 2025: bilingual evaluation of language models on university entrance exams."
-    - "IEEE VIS and VIS4DH: visual analytics for digital humanities."
-    - "CHI 2026 (accepted): evaluation practices at the intersection of visualization and the humanities."
-    - Full publication list is maintained in the publications section.
-
 - title: Service, Committees, and Recognition
   type: list
   contents:
     - Co-chair, ODESIA-Challenge 2024 (international benchmark for Spanish LLM evaluation).
     - Reviewer for ACL, EMNLP, Computational Linguistics, IEEE VIS, IEEE PacificVis, ACM CHI, IEEE Access, and JOCCH.
-    - Invited participant, Dagstuhl Seminar 2023 on Visualization and the Humanities.
-    - ANECA accreditations (2023) Profesor Contratado Doctor, Profesor Ayudante Doctor, and Profesor de Universidad Privada.
+    - Invited participant, [Dagstuhl Seminar 2023 on Visualization and the Humanities](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/23381).
+    - ANECA accreditations (2023): Profesor Contratado Doctor (PCD), Profesor Ayudante Doctor (PAD), and Profesor de Universidad Privada.
 
 - title: International Visits and Professional Experience
   type: time_table

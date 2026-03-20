@@ -2,14 +2,107 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I love teaching. These are selected courses and teaching materials from my work at the University of Salamanca.
+description: Selected courses, teaching materials, and student supervision from my work at the University of Salamanca and UNED.
 nav: true
 nav_order: 6
 ---
 
+## 2025-26 (current)
+
+### UNED
+
+Programming Languages and Processors - BSc in Information Technology Engineering
+
+- 6 ECTS.
+- Distance learning course focused on the formal specification of programming languages.
+
+Data Visualization - MA in Digital Humanities: Methods and Good Practices
+
+- 5 ECTS.
+- Distance learning course focused on visualization tools for complex data.
+
+Text Representation in Vector and Probabilistic Spaces - MSc in Language Technologies
+
+- 6 ECTS.
+- Distance learning course focused on embedding models.
+
+## 2024-25
+
+### UNED
+
+Data Visualization - MA in Digital Humanities: Methods and Good Practices
+
+- 5 ECTS.
+- Distance learning course focused on visualization tools for complex data.
+
+Text Representation in Vector and Probabilistic Spaces - MSc in Language Technologies
+
+- 6 ECTS.
+- Distance learning course focused on embedding models.
+
+UNED Summer Course: "Conversational AI: A Bridge Between Human Language and Machines"
+
+- Course director.
+- 20 hours, September 2024.
+
+## 2023-24
+
+### UNED
+
+Data Visualization - MA in Digital Humanities: Methods and Good Practices
+
+- 5 ECTS.
+- Distance learning course focused on visualization tools for complex data.
+
+## 2022-23
+
+### University of Salamanca
+
+Cloud Computing and Network Services Management - MSc in Computer Engineering
+
+- 4 ECTS.
+
+### UNED
+
+Data Visualization - MSc in Data Science and Engineering
+
+- 4 ECTS.
+- Distance learning course focused on visualization tools for complex data.
+
+## 2020-22
+
+### University of Salamanca
+
+[Intro to Python](https://masterbioinformatica.usal.es/asignaturas/python/) - Diploma in Bioinformatics and Computational Genomics
+
+- Taught in the 2020-21 and 2021-22 academic years.
+- 4 ECTS.
+- Introduction to Python programming and computational thinking for biologists, neuroscientists, and biotechnologists.
+
+[Computational Tools for Bioinformatics](https://masterbioinformatica.usal.es/asignaturas/unix/) - Diploma in Bioinformatics and Computational Genomics
+
+- Taught in the 2020-21 and 2021-22 academic years.
+- 3 ECTS.
+- Introduction to the Unix/Linux ecosystem and command-line tools commonly used in bioinformatics.
+- Topics included:
+  1. Introduction to Unix and GNU/Linux operating systems.
+  2. Remote information exchange.
+  3. File system: paths, permissions, edition.
+  4. Piping.
+  5. Regular expressions with grep, sed, and awk.
+  6. Shell scripting.
+
+## 2019-20
+
+### University of Salamanca
+
+Visualization and Visual Analytics - [Master's in Intelligent Systems](https://mastersi.usal.es/)
+
+- I created a small [intro to D3 in Observable](https://observablehq.com/@ale0xb/d3-tutorial) for the course "Visualization & Visual Analytics".
+
 ## 2017-18
 
-### Universidad de Salamanca
+### University of Salamanca
 
 [Informatica I](https://guias.usal.es/node/22074) - 1st course, BSc in Statistics
 
@@ -24,25 +117,34 @@ nav_order: 6
 - I taught the practical materials for around 130 students.
 - As a teaching assistant, I managed the [Interfaces Imaginadas](http://vis.usal.es/~interfacesimaginadas) program that year.
 
-## 2019-20
+## Student Supervision
 
-Visualizacion y Analitica Visual - [Master's in Intelligent Systems](https://mastersi.usal.es/).
+### Current Students
 
-- I created a small [intro to D3 in Observable](https://observablehq.com/@ale0xb/d3-tutorial) for the course "Visualization & Visual Analytics".
+#### PhD Students
 
-## 2020-21
+Adrian Ghajari Espinosa - MSc in Language Technologies, UNED (PhD candidate since September 2024, co-supervised with Victor Fresno).
 
-[Intro to Python](https://masterbioinformatica.usal.es/asignaturas/python/) - Master's in Bioinformatics and Computational Genomics
+#### MSc Students
 
-- Introduction to Python programming and computational thinking for biologists, neuroscientists, and biotechnologists.
+- No current MSc supervision listed here yet.
 
-[Computational Tools for Bioinformatics](https://masterbioinformatica.usal.es/asignaturas/unix/) - Master's in Bioinformatics and Computational Genomics
+### Past Students
 
-- Introduction to the Unix/Linux ecosystem and command-line tools commonly used in bioinformatics.
-- Topics included:
-  1. Introduction to Unix and GNU/Linux operating systems.
-  2. Remote information exchange.
-  3. File system: paths, permissions, edition.
-  4. Piping.
-  5. Regular expressions with grep, sed, and awk.
-  6. Shell scripting.
+#### PhD Students
+
+- No completed PhD supervision listed here yet.
+
+#### MSc Students
+
+Adrian Ghajari Espinosa - MSc in Language Technologies, UNED
+
+- Thesis: "Neural Approaches to Decode Semantic Similarities in Spanish Song Lyrics for Enhanced Recommendation Systems."
+- Co-supervised with Victor Fresno.
+- Completed in September 2024.
+
+David Eduardo Delgado Camacho - MSc in Language Technologies, UNED
+
+- Thesis: "A Framework and Visual Analytics Tool for Exploring Compositionality in Sentence Embeddings."
+- Co-supervised with Victor Fresno.
+- Completed in June 2025.
