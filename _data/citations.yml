@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-08'
 papers:
   kG15qkMAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 7th Iberoamerican Workshop on Human-Computer Interaction (HCI-COLLAB)
     year: '2021'
   kG15qkMAAAAJ:5Ul4iDaHHb8C:
-    citations: 0
+    citations: 1
     title: 'Test-driving information Theory-based Compositional Distributional Semantics: A case study on Spanish song lyrics'
     year: '2025'
   kG15qkMAAAAJ:738O_yMBCRsC:
@@ -32,6 +32,10 @@ papers:
   kG15qkMAAAAJ:B3FOqHPlNUQC:
     citations: 0
     title: 5.9 Surveying the State-of-the-Art
+    year: Unknown Year
+  kG15qkMAAAAJ:BrmTIyaxlBUC:
+    citations: 0
+    title: OPEN ACCESS EDITED BY
     year: Unknown Year
   kG15qkMAAAAJ:CHSYGLWDkRkC:
     citations: 0
@@ -66,7 +70,7 @@ papers:
     title: Shedding light on indigenous knowledge concepts and world perception through visual analysis
     year: '2018'
   kG15qkMAAAAJ:LPZeul_q3PIC:
-    citations: 0
+    citations: 1
     title: Robust Estimation of Population-Level Effects in Repeated-Measures NLP Experimental Designs
     year: '2025'
   kG15qkMAAAAJ:NhqRSupF_l8C:
@@ -106,7 +110,7 @@ papers:
     title: VIS4DH 2023
     year: Unknown Year
   kG15qkMAAAAJ:ZHo1McVdvXMC:
-    citations: 57
+    citations: 58
     title: 'Data-driven visual performance analysis in soccer: An exploratory prototype'
     year: '2018'
   kG15qkMAAAAJ:_xSYboBqXhAC:
@@ -122,11 +126,11 @@ papers:
     title: 'Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities'
     year: '2020'
   kG15qkMAAAAJ:bFI3QPDXJZMC:
-    citations: 46
+    citations: 47
     title: A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities
     year: '2020'
   kG15qkMAAAAJ:dfsIfKJdRG4C:
-    citations: 31
+    citations: 32
     title: Towards an Uncertainty-Aware Visualization in the Digital Humanities
     year: '2019'
   kG15qkMAAAAJ:dshw04ExmUIC:
@@ -174,7 +178,7 @@ papers:
     title: Creating meaningful narratives in collections of historical lexical data
     year: '2018'
   kG15qkMAAAAJ:sSrBHYA8nusC:
-    citations: 2
+    citations: 4
     title: 'Visualization and the Humanities: Towards a Shared Research Agenda (Dagstuhl Seminar 23381)'
     year: '2024'
   kG15qkMAAAAJ:tOudhMTPpwUC:
