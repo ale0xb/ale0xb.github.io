@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-06-03'
 papers:
   kG15qkMAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: Co-Designing Innovation Networks for Cross-Sectoral Collaboration on the Example of exploreAT!
     year: '2017'
   kG15qkMAAAAJ:K3LRdlH-MEoC:
-    citations: 3
+    citations: 4
     title: Bilingual Evaluation of Language Models on General Knowledge in University Entrance Exams with Minimal Contamination
     year: '2024'
   kG15qkMAAAAJ:KxtntwgDAa4C:
@@ -98,7 +98,7 @@ papers:
     title: Toward supporting decision-making under uncertainty in digital humanities with progressive visualization
     year: '2018'
   kG15qkMAAAAJ:UxriW0iASnsC:
-    citations: 4
+    citations: 5
     title: Evaluating a Taxonomy of Textual Uncertainty for Collaborative Visualisation in the Digital Humanities
     year: '2021'
   kG15qkMAAAAJ:VOx2b1Wkg3QC:
@@ -110,7 +110,7 @@ papers:
     title: VIS4DH 2023
     year: Unknown Year
   kG15qkMAAAAJ:ZHo1McVdvXMC:
-    citations: 58
+    citations: 60
     title: 'Data-driven visual performance analysis in soccer: An exploratory prototype'
     year: '2018'
   kG15qkMAAAAJ:_xSYboBqXhAC:
@@ -126,11 +126,11 @@ papers:
     title: 'Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities'
     year: '2020'
   kG15qkMAAAAJ:bFI3QPDXJZMC:
-    citations: 47
+    citations: 48
     title: A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities
     year: '2020'
   kG15qkMAAAAJ:dfsIfKJdRG4C:
-    citations: 32
+    citations: 33
     title: Towards an Uncertainty-Aware Visualization in the Digital Humanities
     year: '2019'
   kG15qkMAAAAJ:dshw04ExmUIC:
