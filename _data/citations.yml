@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-03'
 papers:
   kG15qkMAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -110,7 +110,7 @@ papers:
     title: VIS4DH 2023
     year: Unknown Year
   kG15qkMAAAAJ:ZHo1McVdvXMC:
-    citations: 60
+    citations: 62
     title: 'Data-driven visual performance analysis in soccer: An exploratory prototype'
     year: '2018'
   kG15qkMAAAAJ:_xSYboBqXhAC:
@@ -126,11 +126,11 @@ papers:
     title: 'Pilaster: A Collection of Citation Metadata Extracted From Publications on Visualization for the Digital Humanities'
     year: '2020'
   kG15qkMAAAAJ:bFI3QPDXJZMC:
-    citations: 48
+    citations: 49
     title: A Data-Driven Introduction to Authors, Readings, and Techniques in Visualization for the Digital Humanities
     year: '2020'
   kG15qkMAAAAJ:dfsIfKJdRG4C:
-    citations: 33
+    citations: 34
     title: Towards an Uncertainty-Aware Visualization in the Digital Humanities
     year: '2019'
   kG15qkMAAAAJ:dshw04ExmUIC:
@@ -146,7 +146,7 @@ papers:
     title: 'Data-driven visual performance analysis in soccer: an exploratory prototype'
     year: '2019'
   kG15qkMAAAAJ:fQNAKQ3IYiAC:
-    citations: 0
+    citations: 1
     title: 'Beyond Averages: Learning with Annotator Disagreement in STS'
     year: '2025'
   kG15qkMAAAAJ:geHnlv5EZngC:
@@ -157,6 +157,10 @@ papers:
     citations: 1
     title: 'Making the Whole Greater than the Sum of its Parts: Taxonomy Development as a Site of Negotiation and Compromise in an Interdisciplinary Software Development Project.'
     year: '2023'
+  kG15qkMAAAAJ:mvPsJ3kp5DgC:
+    citations: 0
+    title: To What Extent Is LLM Performance on Multiple-Choice Questions Driven by Data Leakage? A Case Study with Contamination-Controlled Spanish Undergraduate Exams
+    year: '2026'
   kG15qkMAAAAJ:nb7KW1ujOQ8C:
     citations: 0
     title: 'Where the words are: a visual interactive exploration of plants names.'
@@ -173,6 +177,10 @@ papers:
     citations: 2
     title: "Evaluaci\xF3n de una metodolog\xEDa novel basada en cuadernos interactivos para el aprendizaje de la programaci\xF3n en Python"
     year: '2019'
+  kG15qkMAAAAJ:q3oQSFYPqjQC:
+    citations: 0
+    title: 'Discriminative Benchmarking of Spanish Language Models: Findings from the ODESIA Challenge 2024'
+    year: '2026'
   kG15qkMAAAAJ:rO6llkc54NcC:
     citations: 3
     title: Creating meaningful narratives in collections of historical lexical data
@@ -186,7 +194,7 @@ papers:
     title: "Human-Computer Interaction: 7th Iberoamerican Workshop, HCI-COLLAB 2021, Sao Paulo, Brazil, September 8\u201310, 2021, Proceedings"
     year: '2021'
   kG15qkMAAAAJ:u9iWguZQMMsC:
-    citations: 3
+    citations: 4
     title: Characterizing the Visualization Design Space of Distant and Close Reading of Poetic Rhythm
     year: '2023'
   kG15qkMAAAAJ:uWQEDVKXjbEC:
