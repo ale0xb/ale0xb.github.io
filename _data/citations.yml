@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-22'
 papers:
   kG15qkMAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -78,11 +78,11 @@ papers:
     title: Defragmenting Research Areas with Knowledge Visualization and Visual Text Analytics
     year: '2020'
   kG15qkMAAAAJ:O3NaXMp0MMsC:
-    citations: 81
+    citations: 82
     title: 'Bkviz: A basketball visual analysis tool'
     year: '2016'
   kG15qkMAAAAJ:P5F9QuxV20EC:
-    citations: 20
+    citations: 21
     title: 'Playing Design: A Case Study on Applying Gamification to Construct a Serious Game with Youngsters at Social Risk'
     year: '2021'
   kG15qkMAAAAJ:RGFaLdJalmkC:
@@ -174,7 +174,7 @@ papers:
     title: 'Analyzing and Visualizing Uncertain Knowledge: The Use of TEI Annotations in the PROVIDEDH Open Science Platform'
     year: '2021'
   kG15qkMAAAAJ:pyW8ca7W8N0C:
-    citations: 2
+    citations: 1
     title: "Evaluaci\xF3n de una metodolog\xEDa novel basada en cuadernos interactivos para el aprendizaje de la programaci\xF3n en Python"
     year: '2019'
   kG15qkMAAAAJ:q3oQSFYPqjQC:
@@ -186,7 +186,7 @@ papers:
     title: Creating meaningful narratives in collections of historical lexical data
     year: '2018'
   kG15qkMAAAAJ:sSrBHYA8nusC:
-    citations: 5
+    citations: 6
     title: 'Visualization and the Humanities: Towards a Shared Research Agenda (Dagstuhl Seminar 23381)'
     year: '2024'
   kG15qkMAAAAJ:tOudhMTPpwUC:
@@ -214,7 +214,7 @@ papers:
     title: VIS4DH 2020
     year: Unknown Year
   kG15qkMAAAAJ:yD5IFk8b50cC:
-    citations: 22
+    citations: 23
     title: Cross-Domain Visual Exploration of Academic Corpora via the Latent Meaning of User-Authored Keywords
     year: '2019'
   kG15qkMAAAAJ:zA6iFVUQeVQC:
