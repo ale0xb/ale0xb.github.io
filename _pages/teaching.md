@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-## 2025-26 (current)
+## 2025-26
 
 ### UNED
 
@@ -125,15 +125,7 @@ Visualization and Visual Analytics - [Master's in Intelligent Systems](https://m
 
 Adrian Ghajari Espinosa - MSc in Language Technologies, UNED (PhD candidate since September 2024, co-supervised with Victor Fresno).
 
-#### MSc Students
-
-- No current MSc supervision listed here yet.
-
 ### Past Students
-
-#### PhD Students
-
-- No completed PhD supervision listed here yet.
 
 #### MSc Students
 
