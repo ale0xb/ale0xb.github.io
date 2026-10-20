@@ -7,21 +7,45 @@ nav: true
 nav_order: 6
 ---
 
-## 2025-26
+## 2026-27
 
 ### UNED
 
-Programming Languages and Processors - BSc in Information Technology Engineering
+[Intelligent Access to Information](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=31101019&codigoTitulacion=310701&curso=2027&language=es) - MSc in Language Technologies
+
+- 6 ECTS.
+- Distance learning course focused on information retrieval and question answering, including semantic search and retrieval-augmented generation.
+
+[Programming Strategies and Data Structures](https://www.uned.es/universidad/pdf/GuiasAsignaturasGrados/PDFGuiaPublica?codigoAsignatura=71901043&codigoTitulacion=7101&curso=2027&language=es) - BSc in Computer Engineering and BSc in Information Technology Engineering
+
+- 6 ECTS.
+- Distance learning course focused on problem-solving strategies, programming, and fundamental data structures.
+
+[Programming Languages and Processors](https://www.uned.es/universidad/pdf/GuiasAsignaturasGrados/PDFGuiaPublica?codigoAsignatura=71022028&codigoTitulacion=7102&curso=2027&language=es) - BSc in Information Technology Engineering
 
 - 6 ECTS.
 - Distance learning course focused on the formal specification of programming languages.
 
-Data Visualization - MA in Digital Humanities: Methods and Good Practices
+[Data Visualization](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=27040051&codigoTitulacion=270401&curso=2027&language=es) - MA in Digital Humanities: Methods and Good Practices
 
 - 5 ECTS.
 - Distance learning course focused on visualization tools for complex data.
 
-Text Representation in Vector and Probabilistic Spaces - MSc in Language Technologies
+## 2025-26
+
+### UNED
+
+[Programming Languages and Processors](https://www.uned.es/universidad/pdf/GuiasAsignaturasGrados/PDFGuiaPublica?codigoAsignatura=71022028&codigoTitulacion=7102&curso=2026&language=es) - BSc in Information Technology Engineering
+
+- 6 ECTS.
+- Distance learning course focused on the formal specification of programming languages.
+
+[Data Visualization](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=27040051&codigoTitulacion=270401&curso=2026&language=es) - MA in Digital Humanities: Methods and Good Practices
+
+- 5 ECTS.
+- Distance learning course focused on visualization tools for complex data.
+
+[Text Representation in Vector and Probabilistic Spaces](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=31070023&codigoTitulacion=310701&curso=2026&language=es) - MSc in Language Technologies
 
 - 6 ECTS.
 - Distance learning course focused on embedding models.
@@ -30,12 +54,12 @@ Text Representation in Vector and Probabilistic Spaces - MSc in Language Technol
 
 ### UNED
 
-Data Visualization - MA in Digital Humanities: Methods and Good Practices
+[Data Visualization](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=27040051&codigoTitulacion=270401&curso=2025&language=es) - MA in Digital Humanities: Methods and Good Practices
 
 - 5 ECTS.
 - Distance learning course focused on visualization tools for complex data.
 
-Text Representation in Vector and Probabilistic Spaces - MSc in Language Technologies
+[Text Representation in Vector and Probabilistic Spaces](https://portal.uned.es/EadmonGuiasWeb/htdocs/abrir_fichero/abrir_fichero.jsp?idGuia=206693) - MSc in Language Technologies
 
 - 6 ECTS.
 - Distance learning course focused on embedding models.
@@ -49,7 +73,7 @@ UNED Summer Course: "Conversational AI: A Bridge Between Human Language and Mach
 
 ### UNED
 
-Data Visualization - MA in Digital Humanities: Methods and Good Practices
+[Data Visualization](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=27040051&codigoTitulacion=270401&curso=2024&language=es) - MA in Digital Humanities: Methods and Good Practices
 
 - 5 ECTS.
 - Distance learning course focused on visualization tools for complex data.
@@ -64,7 +88,7 @@ Cloud Computing and Network Services Management - MSc in Computer Engineering
 
 ### UNED
 
-Data Visualization - MSc in Data Science and Engineering
+[Data Visualization](https://www.uned.es/universidad/pdf/GuiasAsignaturasMaster/PDFGuiaPublica?codigoAsignatura=31110060&codigoTitulacion=311001&curso=2023&language=es) - MSc in Data Science and Engineering
 
 - 4 ECTS.
 - Distance learning course focused on visualization tools for complex data.

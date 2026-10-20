@@ -7,4 +7,12 @@ github_username: ale0xb
 x_username: ale0xB
 linkedin_username: alejandro-benito-santos-99579633
 scholar_userid: kG15qkMAAAAJ
+acl_anthology:
+  title: ACL Anthology
+  url: https://aclanthology.org/people/alejandro-benito-santos/
+  logo: site-social-icon acl-anthology-icon
+openreview:
+  title: OpenReview
+  url: https://openreview.net/profile?id=~Alejandro_Benito-Santos1
+  logo: site-social-icon openreview-icon
 orcid_id: 0000-0001-5317-6390

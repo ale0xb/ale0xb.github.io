@@ -20,7 +20,6 @@
       year: 2026
       description:
         - '"Chasing Meaning and/or Insight? A Survey on Evaluation Practices at the Intersection of Visualization and the Humanities."'
-        - First author; conceived the study, assembled an international team, and led the project over two years.
       linkitems:
         - link: https://doi.org/10.1145/3772318.3793150
           linkname: Paper
@@ -124,9 +123,19 @@
   contents:
     - title: Data Visualization (distance learning)
       institution: UNED, MA in Digital Humanities
-      year: 2023-2026
+      year: 2023-2027
       description:
         - 5 ECTS. Online teaching focused on visualization tools for complex data.
+    - title: Intelligent Access to Information (distance learning)
+      institution: UNED, MSc in Language Technologies
+      year: 2026-2027
+      description:
+        - 6 ECTS. Online teaching focused on information retrieval and question answering.
+    - title: Programming Strategies and Data Structures (distance learning)
+      institution: UNED, BSc in Computer Engineering and BSc in Information Technology Engineering
+      year: 2026-2027
+      description:
+        - 6 ECTS. Online teaching focused on problem-solving strategies, programming, and fundamental data structures.
     - title: Text Representation in Vector and Probabilistic Spaces (distance learning)
       institution: UNED, MSc in Language Technologies
       year: 2024-2026
@@ -134,7 +143,7 @@
         - 6 ECTS. Online teaching focused on embedding models.
     - title: Programming Languages and Processors (distance learning)
       institution: UNED, BSc in Information Technology Engineering
-      year: 2025-2026
+      year: 2025-2027
       description:
         - 6 ECTS. Online teaching focused on the formal specification of programming languages.
     - title: Data Visualization (distance learning)
