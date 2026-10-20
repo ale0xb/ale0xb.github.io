@@ -550,6 +550,20 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=kG15qkMAAAAJ", "_blank");
         },
       },{
+        id: 'social-acl_anthology',
+        title: 'Acl_anthology',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://aclanthology.org/people/alejandro-benito-santos/", "_blank");
+        },
+      },{
+        id: 'social-openreview',
+        title: 'Openreview',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://openreview.net/profile?id=~Alejandro_Benito-Santos1", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
